@@ -1,0 +1,38 @@
+
+.navbar {
+    background-color: lightgoldenrodyellow;
+}
+
+.quem-somos{
+    background-color: lightblue;
+}
+
+.parceiros{
+    background-color: lightgreen;
+}
+
+.servicos{
+
+    background-color: lightgoldenrodyellow;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h3{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 5px 0 0;
+}
